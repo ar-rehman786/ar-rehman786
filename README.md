@@ -48,7 +48,7 @@ const engineer = {
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ar-rehman786&theme=midnight-purple&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D)](https://github.com/ar-rehman786)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ar-rehman786&theme=midnight-purple&hide_border=true&border_radius=12)](https://github.com/ar-rehman786)
 
 <br/>
 
@@ -94,14 +94,14 @@ const engineer = {
                    🔢 Limit: 10/run      🔗 Public image URL     ✅ Mark done
 ```
 
-**Smart filter logic — only qualified leads get through:**
+**Smart filter — only qualified leads pass through:**
 
 ```js
-// All 4 conditions must be TRUE to pass
-Mail ids   → not empty          // has a valid email
-Website    → not empty          // has a website to screenshot
-CheckBox   → true               // manually approved
-Emailed?   → empty              // not contacted yet
+// All 4 conditions must be TRUE
+Mail ids  → not empty   // valid email exists
+Website   → not empty   // has a site to screenshot
+CheckBox  → true        // manually approved
+Emailed?  → empty       // not contacted yet
 ```
 
 ---
@@ -110,9 +110,21 @@ Emailed?   → empty              // not contacted yet
 
 <div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,vue,ts,js,nodejs,html,css,sass,tailwind,bootstrap,mongodb,mysql,graphql,git,figma&theme=dark" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
 </div>
 
@@ -122,7 +134,7 @@ Emailed?   → empty              // not contacted yet
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ar-rehman786&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&include_all_commits=true&count_private=true&hide_title=true)](https://github.com/ar-rehman786)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ar-rehman786&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&include_all_commits=true&count_private=true)](https://github.com/ar-rehman786)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ar-rehman786&theme=tokyo-night&hide_border=true&radius=8&area=true)](https://github.com/ar-rehman786)
 
@@ -134,12 +146,22 @@ Emailed?   → empty              // not contacted yet
 
 **Let's build something that works while you sleep.**
 
-[![Email](https://img.shields.io/badge/abdulrehmanhameed4321%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abdulrehmanhameed4321@gmail.com)
+<br/>
+
+<a href="mailto:abdulrehmanhameed4321@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-abdulrehmanhameed4321%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 &nbsp;
-[![Slora AI](https://img.shields.io/badge/sloraai.com-5D3EFF?style=flat-square&logo=vercel&logoColor=white)](https://www.sloraai.com/)
+<a href="https://www.sloraai.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Slora_AI-sloraai.com-5D3EFF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 &nbsp;
-[![GitHub](https://img.shields.io/badge/ar--rehman786-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ar-rehman786)
+<a href="https://github.com/ar-rehman786" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-ar--rehman786-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" />
