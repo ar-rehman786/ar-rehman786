@@ -118,13 +118,13 @@ Emailed?  → empty       // not contacted yet
 ## 〔 github stats 〕
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-rehman786&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true&border_radius=10" alt="top langs" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=ar-rehman786&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&border_radius=10" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-rehman786&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true&border_radius=10&cache_seconds=1800" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=ar-rehman786&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&border_radius=10&cache_seconds=1800" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=ar-rehman786&theme=midnight-purple&hide_border=true&border_radius=10" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ar-rehman786&theme=midnight-purple&hide_border=true&border_radius=10" />
 </p>
 
 ---
