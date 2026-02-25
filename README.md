@@ -2,37 +2,41 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abdul%20Rehman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Automation%20Engineer%20%E2%80%A2%20Zolara%20Tech&descAlignY=58&descSize=18&animation=fadeIn" />
 
-</div>
+<br/>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Designing+AI+systems+that+run+on+autopilot.;n8n+%E2%80%A2+Google+Sheets+%E2%80%A2+Cloudinary+%E2%80%A2+Gmail;From+leads+to+clients+%E2%80%94+fully+automated.;Frontend+Dev+%E2%80%A2+React+%E2%80%A2+Vue+%E2%80%A2+TypeScript)](https://github.com/ar-rehman786)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Designing+AI+systems+that+run+on+autopilot.;n8n+%E2%80%A2+Google+Sheets+%E2%80%A2+Cloudinary+%E2%80%A2+Gmail;From+leads+to+clients+%E2%80%94+fully+automated.;Frontend+Dev+%E2%80%A2+React+%E2%80%A2+Vue+%E2%80%A2+TypeScript)](https://github.com/ar-rehman786)
 
 <br/>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+![Profile Views](https://komarev.com/ghpvc/?username=ar-rehman786&color=7c3aed&style=flat-square&label=Profile+Views)
+&nbsp;
+![Focus](https://img.shields.io/badge/Focus-AI%20Automation-7c3aed?style=flat-square)
+&nbsp;
+![Company](https://img.shields.io/badge/Zolara%20Tech-302b63?style=flat-square)
+&nbsp;
+![Location](https://img.shields.io/badge/Lahore%2C%20Pakistan-24243e?style=flat-square)
 
-## `whoami`
+</div>
+
+---
+
+## 〔 who am i 〕
 
 ```typescript
 const engineer = {
-  name    : "Abdul Rehman",
-  role    : "AI Automation Engineer",
-  company : "Zolara Tech",
-  city    : "Lahore, Pakistan 🇵🇰",
-  email   : "abdulrehmanhameed4321@gmail.com",
+  name      : "Abdul Rehman",
+  role      : "AI Automation Engineer",
+  company   : "Zolara Tech",
+  city      : "Lahore, Pakistan 🇵🇰",
+  email     : "abdulrehmanhameed4321@gmail.com",
 
-  building: [
+  building  : [
     "Slora AI — sloraai.com",
     "Automated cold outreach systems",
     "AI voice agents for local businesses",
   ],
 
-  expertise: [
+  expertise : [
     "n8n workflow automation",
     "Lead generation pipelines",
     "Screenshot → Email pipelines",
@@ -43,24 +47,9 @@ const engineer = {
 };
 ```
 
-</td>
-<td width="45%" valign="top" align="center">
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ar-rehman786&theme=midnight-purple&hide_border=true&border_radius=12)](https://github.com/ar-rehman786)
-
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-rehman786&layout=compact&theme=midnight-purple&hide_border=true&border_radius=12&langs_count=6)](https://github.com/ar-rehman786)
-
-</td>
-</tr>
-</table>
-
 ---
 
-## ◈ Automation Stack
+## 〔 automation stack 〕
 
 <div align="center">
 
@@ -77,27 +66,24 @@ const engineer = {
 
 ---
 
-## ◈ Featured — Mails to Leads Pipeline
+## 〔 featured — mails to leads 〕
 
 <div align="center">
 
-> **Production workflow for [Slora AI](https://www.sloraai.com/)** · Runs daily · 100% autonomous
+> **Production workflow for [Slora AI](https://www.sloraai.com/)** · Runs daily at 3PM · 100% autonomous
 
 </div>
 
 ```
   TRIGGER          FILTER                 ENRICH                  DELIVER
 ─────────────────────────────────────────────────────────────────────────────
-
   ⏰ 3PM daily  →  📊 Read Sheet     →   📸 Screenshot API   →  📧 Send HTML
   🖱️  Manual    →  🔀 IF: qualified  →   ☁️  Cloudinary CDN  →  📊 Log result
                    🔢 Limit: 10/run      🔗 Public image URL     ✅ Mark done
 ```
 
-**Smart filter — only qualified leads pass through:**
-
 ```js
-// All 4 conditions must be TRUE
+// Smart filter — all 4 must be TRUE to pass
 Mail ids  → not empty   // valid email exists
 Website   → not empty   // has a site to screenshot
 CheckBox  → true        // manually approved
@@ -106,39 +92,40 @@ Emailed?  → empty       // not contacted yet
 
 ---
 
-## ◈ Tools I Build With
+## 〔 languages & tools 〕
 
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-
-</div>
+<p align="left">
+<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/></a>
+<a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/></a>
+<a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40"/></a>
+<a href="https://svelte.dev"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="40" height="40"/></a>
+<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://graphql.org"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+</p>
 
 ---
 
-## ◈ GitHub Activity
+## 〔 github stats 〕
 
-<div align="center">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-rehman786&show_icons=true&locale=en&layout=compact&theme=midnight-purple&hide_border=true&border_radius=10" alt="top langs" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=ar-rehman786&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&border_radius=10" alt="github stats" />
+</p>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ar-rehman786&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&include_all_commits=true&count_private=true)](https://github.com/ar-rehman786)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ar-rehman786&theme=tokyo-night&hide_border=true&radius=8&area=true)](https://github.com/ar-rehman786)
-
-</div>
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=ar-rehman786&theme=midnight-purple&hide_border=true&border_radius=10" alt="streak" />
+</p>
 
 ---
 
@@ -148,17 +135,11 @@ Emailed?  → empty       // not contacted yet
 
 <br/>
 
-<a href="mailto:abdulrehmanhameed4321@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-abdulrehmanhameed4321%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-abdulrehmanhameed4321%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrehmanhameed4321@gmail.com)
 &nbsp;
-<a href="https://www.sloraai.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Slora_AI-sloraai.com-5D3EFF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+[![Slora AI](https://img.shields.io/badge/Slora_AI-sloraai.com-5D3EFF?style=for-the-badge&logo=vercel&logoColor=white)](https://www.sloraai.com/)
 &nbsp;
-<a href="https://github.com/ar-rehman786" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-ar--rehman786-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-ar--rehman786-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ar-rehman786)
 
 </div>
 
